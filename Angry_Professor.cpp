@@ -1,6 +1,6 @@
 /*https://www.hackerrank.com/challenges/angry-professor/problem*/
 #include<bits/stdc++.h>
-using namespace std;
+using namespace std; 
 int main()
 {
     int x;cin>>x;
