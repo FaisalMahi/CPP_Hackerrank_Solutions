@@ -1,7 +1,7 @@
 /*https://www.hackerrank.com/challenges/angry-professor/problem*/
 #include<bits/stdc++.h>
 using namespace std; 
-int main()
+int main() 
 {
     int x;cin>>x;
     while(x>0)
